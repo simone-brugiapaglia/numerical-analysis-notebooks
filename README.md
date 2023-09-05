@@ -1,6 +1,8 @@
 # numerical-analysis-notebooks
 This is a collection of Jupyter notebooks developed for the course Numerical Analysis (MAST 334 and MATH 354) at Concordia University. The purpose of these notebooks is to illustrate the most important numerical analysis concepts using simple Python examples.
 
+For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@concordia.ca).
+
 ## Notebooks
 
 1. [Know your (computer's) limits: Floating point arithmetic](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/01_floating_point.ipynb)
