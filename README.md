@@ -1,5 +1,5 @@
 # numerical-analysis-notebooks
-Jupyter notebooks used in the course Numerical Analysis (MAST 334 and MATH 354) at Concordia University
+This is a collection of Jupyter notebooks developed for the course Numerical Analysis (MAST 334 and MATH 354) at Concordia University. The purpose of these notebooks is to illustrate the most important numerical analysis concepts using simple Python examples.
 
 ## Notebooks
 
