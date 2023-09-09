@@ -7,6 +7,7 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 
 1. [Know your (computer's) limits: Floating point arithmetic](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/01_floating_point.ipynb)
 2. [A visual tour of algorithms' convergence](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/02_convergence.ipynb)
+3. [Bisection: divide et impera](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/03_bisection.ipynb)
 
 ## Acknowledgements
 
