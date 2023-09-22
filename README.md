@@ -10,6 +10,7 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 3. [Bisection: divide et impera](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/03_bisection.ipynb)
 4. [Fixed-point iteration: keep calm and apply g(·)](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/04_fixed_point.ipynb)
 5. [Going off on a tangent with Newton's method](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/05_Newton.ipynb)
+6. [Getting the most out of linear convergence with Aitken's method](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/06_Aitken.ipynb)
 
 ## Acknowledgements
 
