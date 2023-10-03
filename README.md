@@ -12,6 +12,7 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 5. [Going off on a tangent with Newton's method](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/05_Newton.ipynb)
 6. [Getting the most out of linear convergence with Aitken's method](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/06_Aitken.ipynb)
 7. [Three ways to perform polynomial interpolation](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/07_interpolation.ipynb)
+8. [Cubic splines and Runge's phenomenon](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/08_Splines.ipynb)
 
 ## Acknowledgements
 
