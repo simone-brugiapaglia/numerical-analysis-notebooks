@@ -14,6 +14,8 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 7. [Three ways to perform polynomial interpolation](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/07_interpolation.ipynb)
 8. [Cubic splines and Runge's phenomenon](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/08_Splines.ipynb)
 9. [Discrete least squares to understand climate change](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/09_Discrete_Least_Squares.ipynb)
+10. [Continuous least squares: from the Hilbert matrix to Legendre polynomials
+](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/10_Orthogonal_polynomials.ipynb)
 
 ## Acknowledgements
 
