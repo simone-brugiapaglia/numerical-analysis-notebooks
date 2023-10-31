@@ -21,6 +21,7 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 9. [Discrete least squares to understand climate change](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/09_Discrete_Least_Squares.ipynb)
 10. [Continuous least squares: from the Hilbert matrix to Legendre polynomials
 ](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/10_Orthogonal_polynomials.ipynb)
+11. [The FFT and its application to signal denoising](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/11_Fourier.ipynb)
 
 ## Acknowledgements
 
