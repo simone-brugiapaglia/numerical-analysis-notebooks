@@ -23,6 +23,9 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 ](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/10_Orthogonal_polynomials.ipynb)
 11. [The FFT and its application to signal denoising](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/11_Fourier.ipynb)
 
+### Numerical differentiation and integration
+12. [Numerical differentiation and Richardson's extrapolation](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/12_differentiation.ipynb)
+
 ## Acknowledgements
 
 I would like to thank Ben Hersey (Concordia) for providing feedback on these notebooks.
