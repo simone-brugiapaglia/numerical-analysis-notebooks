@@ -25,6 +25,7 @@ For any comments or suggestions, please [contact me](mailto:simone.brugiapaglia@
 
 ### Numerical differentiation and integration
 12. [Numerical differentiation and Richardson's extrapolation](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/12_differentiation.ipynb)
+13. [Efficient numerical integration via composite and Gaussian quadrature rules](https://github.com/simone-brugiapaglia/numerical-analysis-notebooks/blob/main/13_quadrature.ipynb)
 
 ## Acknowledgements
 
